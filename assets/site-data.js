@@ -24,7 +24,7 @@ window.SITE_DATA = {
   // 以下为外部公开参考文档，不代表课题组原创资料。可删除或替换成组内文档链接。
   resources: [
     { title: "Meep 电磁仿真文档", category: "光学仿真", description: "FDTD 电磁仿真的入门、建模与示例，适合作为空间光学器件数值仿真的参考。", url: "https://meep.readthedocs.io/en/stable/", source: "Meep 官方文档", type: "在线文档", tags: ["FDTD", "电磁仿真", "Python"] },
-    { title: "NumPy 傅里叶变换参考", category: "数值计算", description: "离散傅里叶变换及相关接口说明，辅助理解和实现频谱分析与光场数值计算。", url: "https://numpy.org/doc/stable/reference/routines.fft.html", source: "NumPy 官方文档", type: "技术参考", tags: ["FFT", "傅里叶光学", "Python"] },
+    { title: "激光光路的搭建", category: "光学实验", description: "傅里叶光学与相干光学系统的实验搭建基础方法。", url: "https://cloud.tsinghua.edu.cn/f/e062f04ae790452c97e0/", source: "wangch", type: "在线文档", tags: ["傅里叶光学", "光学实验"] },
     { title: "PyTorch 学习与实践", category: "深度学习", description: "张量运算、自动微分和神经网络的官方教程，供光电联合优化与感知算法学习参考。", url: "https://pytorch.org/tutorials/", source: "PyTorch 官方教程", type: "教程", tags: ["自动微分", "联合优化", "神经网络"] },
     { title: "Computational Imaging", category: "计算成像", description: "MIT计算成像教程", url: "https://cloud.tsinghua.edu.cn/f/fd9565384d5846179e72/", source: "MIT Press", type: "书籍教程", tags: ["图像处理", "计算机视觉", "计算成像"] }
      
